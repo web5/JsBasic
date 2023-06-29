@@ -1,6 +1,6 @@
 /**
  * 计算最长字串长度
- * @param {} str 
+ * @param {} str
  */
 function StringStrLength(str) {
   let max = 0;
